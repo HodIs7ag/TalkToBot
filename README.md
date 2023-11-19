@@ -30,8 +30,8 @@ Simple voice assistant project that records user speech, converts it to text, in
     pip install -r requirements.txt
     ```
 4. Insert your OpenAI api key
-    [Create API key](https://platform.openai.com/api-keys)
-    add the key in config.py
+    - [Create API key](https://platform.openai.com/api-keys)
+    - add the key to config.py
     ```python
     API_KEY =   #paste key here
     ```
